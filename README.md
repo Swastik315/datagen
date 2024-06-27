@@ -1,5 +1,5 @@
 # datagen
 Contains codes for data generation 
 
-1. Change the path in CIA_package.py to your CIA path.
-2. 
+All changes are hopefully done. Just change the file paths in cloudy_spectrum.py.
+
